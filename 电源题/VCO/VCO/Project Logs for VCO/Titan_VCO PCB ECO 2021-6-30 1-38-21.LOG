@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=+15V Pin=P1-4
+Removed Pin From Net: NetName=GND Pin=P1-5
+Removed Pin From Net: NetName=-15V Pin=P1-6
+Added Component: Designator=P2(P_电源输入端子_二端口_复用)
+Added Component: Designator=P3(P_电源输入端子_二端口_复用)
+Added Pin To Net: NetName=UI Pin=P2-1
+Added Pin To Net: NetName=GND Pin=P2-2
+Added Pin To Net: NetName=UO Pin=P3-1
+Added Pin To Net: NetName=GND Pin=P3-2
+Added Member To Class: ClassName=Titan_VCO Member=Component P2 P_电源输入_2p
+Added Member To Class: ClassName=Titan_VCO Member=Component P3 P_电源输出_2p
+Added Member To Class: ClassName=Titan_VCO Member=Component R26 220
+Added Member To Class: ClassName=Titan_VCO Member=Component R28 5.1k
+Added Member To Class: ClassName=Titan_VCO Member=Component U2 U_LF357
+Added Member To Class: ClassName=Titan_VCO Member=Component U4 U_LF357
+Added Room: Name=Titan_VCO

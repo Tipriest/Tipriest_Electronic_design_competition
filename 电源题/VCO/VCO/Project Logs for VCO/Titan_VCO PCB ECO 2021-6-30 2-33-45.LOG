@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=+15V Pin=P1-4
+Removed Pin From Net: NetName=GND Pin=P1-5
+Removed Pin From Net: NetName=-15V Pin=P1-6
+Removed Pin From Net: NetName=UO Pin=P3-3
+Removed Pin From Net: NetName=GND Pin=P3-4
+Change Component Footprint: Designator=P1 Old Footprint= New Footprint=P_电源输入端子_三端口_复用
+Change Component Footprint: Designator=P3 Old Footprint= New Footprint=P_电源输入端子_二端口_复用

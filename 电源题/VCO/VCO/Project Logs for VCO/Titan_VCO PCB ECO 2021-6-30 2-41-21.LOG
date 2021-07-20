@@ -1,0 +1,34 @@
+Change Component Designator: OldDesignator=P3 NewDesignator=P2
+Change Component Description : Designator=R1 Old Description=ÌùÆ¬µç×è New Description= ÌùÆ¬µç×è
+Change Component Description : Designator=R2 Old Description=ÌùÆ¬µç×è New Description= ÌùÆ¬µç×è
+Change Component Description : Designator=R3 Old Description=ÌùÆ¬µç×è New Description= ÌùÆ¬µç×è
+Change Component Description : Designator=R4 Old Description=ÌùÆ¬µç×è New Description= ÌùÆ¬µç×è
+Change Component Description : Designator=R5 Old Description=ÌùÆ¬µç×è New Description= ÌùÆ¬µç×è
+Change Component Description : Designator=R6 Old Description=ÌùÆ¬µç×è New Description= ÌùÆ¬µç×è
+Change Component Description : Designator=R7 Old Description=ÌùÆ¬µç×è New Description= ÌùÆ¬µç×è
+Change Component Description : Designator=R8 Old Description=ÌùÆ¬µç×è New Description= ÌùÆ¬µç×è
+Change Component Description : Designator=R9 Old Description=ÌùÆ¬µç×è New Description= ÌùÆ¬µç×è
+Change Component Description : Designator=R10 Old Description=ÌùÆ¬µç×è New Description= ÌùÆ¬µç×è
+Change Component Description : Designator=R11 Old Description=ÌùÆ¬µç×è New Description= ÌùÆ¬µç×è
+Change Component Description : Designator=R12 Old Description=ÌùÆ¬µç×è New Description= ÌùÆ¬µç×è
+Change Component Description : Designator=R13 Old Description=ÌùÆ¬µç×è New Description= ÌùÆ¬µç×è
+Change Component Description : Designator=R14 Old Description=ÌùÆ¬µç×è New Description= ÌùÆ¬µç×è
+Change Component Description : Designator=R15 Old Description=ÌùÆ¬µç×è New Description= ÌùÆ¬µç×è
+Change Component Description : Designator=R16 Old Description=ÌùÆ¬µç×è New Description= ÌùÆ¬µç×è
+Change Component Description : Designator=R17 Old Description=ÌùÆ¬µç×è New Description= ÌùÆ¬µç×è
+Change Component Description : Designator=R18 Old Description=ÌùÆ¬µç×è New Description= ÌùÆ¬µç×è
+Change Component Description : Designator=R19 Old Description=ÌùÆ¬µç×è New Description= ÌùÆ¬µç×è
+Change Component Description : Designator=R20 Old Description=ÌùÆ¬µç×è New Description= ÌùÆ¬µç×è
+Change Component Description : Designator=R21 Old Description=ÌùÆ¬µç×è New Description= ÌùÆ¬µç×è
+Change Component Description : Designator=R22 Old Description=ÌùÆ¬µç×è New Description= ÌùÆ¬µç×è
+Change Component Description : Designator=R23 Old Description=ÌùÆ¬µç×è New Description= ÌùÆ¬µç×è
+Change Component Description : Designator=R24 Old Description=ÌùÆ¬µç×è New Description= ÌùÆ¬µç×è
+Change Component Description : Designator=R25 Old Description=ÌùÆ¬µç×è New Description= ÌùÆ¬µç×è
+Change Component Description : Designator=R26 Old Description=ÌùÆ¬µç×è New Description= ÌùÆ¬µç×è
+Change Component Description : Designator=R27 Old Description=ÌùÆ¬µç×è New Description= ÌùÆ¬µç×è
+Change Component Description : Designator=R28 Old Description=ÌùÆ¬µç×è New Description= ÌùÆ¬µç×è
+Change Component Description : Designator=R29 Old Description=ÌùÆ¬µç×è New Description= ÌùÆ¬µç×è
+Added Component: Designator=P3(P_µçÔ´ÊäÈë¶Ë×Ó_¶ş¶Ë¿Ú_¸´ÓÃ)
+Added Pin To Net: NetName=UI Pin=P3-1
+Added Pin To Net: NetName=GND Pin=P3-2
+Added Member To Class: ClassName=Titan_VCO Member=Component P3 P_µçÔ´ÊäÈë_2p
